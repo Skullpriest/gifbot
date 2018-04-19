@@ -1,0 +1,12 @@
+{
+	"name": "GIFbot",
+	"version": "0.0.1",
+	"description": "GIF's bot",
+	"main": "bot.js",
+	"author": "GuyInFreezer",
+	"dependencies": {
+		"discord.io": "github:woor/discord.io#gateway_v6",
+		"discord.js": "^11.3.0",
+		"winston": "^2.4.0"
+	}
+}
